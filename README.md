@@ -1,6 +1,3 @@
-# etlBCB
-# etlBCB
-
 <!-- Para melhor vizualição da tabela, utilizar a formatação de Estrutura Markdown: Ctrl+Shift+V -->
 
 # Dados sobre Meios de Pagamento
